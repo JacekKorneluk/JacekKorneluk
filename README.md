@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacekKorneluk
 - 👀 I’m interested in Blockchain Solutions and Medical-AI
-- 🌱 I’m RMIT Blockchain @ AI Strategy Alumnus
+- 🌱 I’m RMIT Blockchain & AI Strategy Alumnus
 - 💞️ I’m looking to collaborate on sturtups and DPM.
 - 📫 How to reach me;
 
