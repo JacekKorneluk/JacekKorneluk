@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacekKorneluk
-- 👀 I’m interested in Blockchain Solutions and Medical-Ai
-- 🌱 I’m currently learning Postgraduate Blockchain Enabled Business at RMIT
-- 💞️ I’m looking to collaborate on some Clinical Laboratory Diagnostic powered by Blockchain projects, but not only. Medical-Ai and Metaverse as well.
+- 👀 I’m interested in Blockchain Solutions and Medical-AI
+- 🌱 I’m RMIT Blockchain @ AI Strategy Alumnus
+- 💞️ I’m looking to collaborate on sturtups and DPM.
 - 📫 How to reach me;
 
 <!---
